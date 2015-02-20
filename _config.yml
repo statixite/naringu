@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Naringu 
-tagline:             'The simple jekyll theme'
+tagline:             'A Hacker like jekyll theme'
 description:         'Naringu is crafted with <3 by ariestiyansyah.'
 url:                 http://naringu.oonlab.com
 baseurl:             /
