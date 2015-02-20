@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               oonlab
-tagline:             'Lab of ariestiyansyah'
-description:         'oonlab is crafted with <3 by ariestiyansyah, life is not about code.'
+title:               Naringu 
+tagline:             'The simple jekyll theme'
+description:         'Naringu is crafted with <3 by ariestiyansyah.'
 url:                 http://naringu.oonlab.com
 baseurl:             /
 paginate:            7
@@ -23,7 +23,7 @@ author:
   email:             ariestiyansyah.rizky@gmail.com
 
 # Custom vars
-version:             2.0
+version:             1.0
 
 # Social Media
 github:				http://github.com/ariestiyansyah
