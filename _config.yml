@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               oonlab
 tagline:             'Lab of ariestiyansyah'
 description:         'oonlab is crafted with <3 by ariestiyansyah, life is not about code.'
-url:                 http://oonlab.com/naringu
+url:                 http://ariestiyansyah.github.io/naringu
 baseurl:             /
 paginate:            7
 
