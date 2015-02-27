@@ -9,9 +9,15 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
+<<<<<<< HEAD
 title:               Naringu 
 tagline:             'A Hacker like jekyll theme'
 description:         'Naringu is crafted with <3 by ariestiyansyah.'
+=======
+title:               Naringu
+tagline:             'A Hacker like jekyll theme'
+description:         'oonlab is crafted with <3 by ariestiyansyah.'
+>>>>>>> master
 url:                 http://naringu.oonlab.com
 baseurl:             /
 paginate:            7
@@ -34,5 +40,7 @@ theme:
   creator:			Rizky Ariestiyansyah
   codename:			Naringu
 
-
-
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+creator:			Rizky Ariestiyansyah
+codename:			Naringu
